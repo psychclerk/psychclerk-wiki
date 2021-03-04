@@ -1,4 +1,4 @@
-# It works! ;-)
+# Psychiatry Clerkship App
 
 
 ## Section 1
