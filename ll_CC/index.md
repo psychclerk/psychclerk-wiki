@@ -1,8 +1,8 @@
 # Psychiatry Clerkship App
 
-> The secret in the care of the patient is in caring for the patient 
->                 - Francis Peabody
-
+```
+The secret in the care of the patient is in caring for the patie               - Francis Peabody
+```
 
 ## Section 1
 
