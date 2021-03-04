@@ -19,7 +19,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-# Chapters
+[Chapters]()
 [Chapter 1 Introduction to posting](pages/about.md)
 [About](pages/about.md)
 [Download](pages/download.md)
