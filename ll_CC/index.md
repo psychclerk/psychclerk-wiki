@@ -11,9 +11,9 @@ The secret in the care of the patient is in caring for the patient
 To ensure humane care and effective treatment for all persons with mental illness
 
 ### Mission
-To provide excellent mental health care to our patients and community.
-Educate and create right attitude amongst future doctors towards treating people with mental illness.
-Excel in mental health research. 
+- To provide excellent mental health care to our patients and community.
+- Educate and create right attitude amongst future doctors towards treating people with mental illness.
+- Excel in mental health research. 
 
 ### Faculty
 
