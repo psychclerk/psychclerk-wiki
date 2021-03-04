@@ -1,14 +1,13 @@
 # Psychiatry Clerkship App
 
 ```
-The secret in the care of the patient is in caring for the patient 
-                                                - Francis Peabody
+The secret in the care of the patient is in caring for the patient - Francis Peabody
 ```
 
 ## About Department of Psychiatry, PSMC, Bhaikaka University, Karamsad
 ### Vision
 
-To ensure humane care and effective treatment for all persons with mental illness
+- To ensure humane care and effective treatment for all persons with mental illness
 
 ### Mission
 - To provide excellent mental health care to our patients and community.
@@ -17,11 +16,22 @@ To ensure humane care and effective treatment for all persons with mental illnes
 
 ### Faculty
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
+Dr. Anusha Prabhakaran
+MD Psychiatry
+Prof. and Head
 
+Dr. Himanshu Sharma
+MD Psychiatry
+Prof.
+	
+Dr. Jagdish Varma
+MD Psychiatry
+Prof.
 
-## Section 2
+Dr. Pooja Shatadal
+MD Psychiatry
+Senior Resident
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+Dr. Ankur Mahida
+M Phil, PhD
+Clinical Psychologist
