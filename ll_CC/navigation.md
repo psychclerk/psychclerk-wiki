@@ -30,9 +30,10 @@
   - - - -
   * [Psychiatric History Taking and MSE](pages/subitem3.md)
   - - - -
-  * [OSCE checklists]()
+  [OSCE checklists]()
     * [Generic psychiatric history](pages/subitem3.md)
     * [Evaluation of pt with low mood](pages/subitem3.md)
+
 [Menu Item 2](pages/item2.md)
 
 [Menu Item 3](pages/item3.md)
